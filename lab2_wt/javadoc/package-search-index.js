@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"by.bsuir.Mukhliada.runner"},{"l":"by.bsuir.Mukhliada.util.BaseClasses.Books"},{"l":"by.bsuir.Mukhliada.util.BaseClasses.Users"},{"l":"by.bsuir.Mukhliada.util.Commands"},{"l":"by.bsuir.Mukhliada.util.Controllers"},{"l":"by.bsuir.Mukhliada.util.DAO"},{"l":"by.bsuir.Mukhliada.util.Email"},{"l":"by.bsuir.Mukhliada.util.View"}]
